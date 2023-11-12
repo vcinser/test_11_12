@@ -13,9 +13,8 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: SingleChildScrollView(
         child: Container(
-          height: 300,
+          height: 400,
           color: Colors.red,
-          
         ),
       ),
     );
